@@ -1,0 +1,90 @@
+.heading{
+    color: #f4f80f;
+    font-weight: bolder;
+    font-size: 3rem;
+    position:absolute;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-family: "algerian";
+    
+    
+}
+
+.mainbuttons{
+    background-color:#f54291;
+}
+
+.menubtns{
+    padding-top: 250px;
+    padding-bottom: 100px;
+    
+    
+}
+.menubtns1{
+    margin-left: 30%;
+
+}
+.formid{
+    margin-left: 5px;
+}
+.input1{
+    margin-left: 35px;
+}
+.input2{
+    margin-left: 55px;
+}
+.input4{
+    margin-left: 100px;
+}
+.formdiv{
+    
+    margin-left: 500px;
+}
+.contact{
+    margin-left: 500px;
+}
+.line{
+    width: 40%;
+}
+.para{
+    margin-left: 250px;
+}
+.skillsdiv{
+    margin-left: 600px;
+}
+.hobbiesdiv{
+    margin-left: 570px;
+}
+h1{
+    margin-left: 200px;
+}
+li{
+    font-size: 22px;
+}
+#footer
+{
+    margin-left: 550px;
+}
+.sec2{
+    padding-top: 100px;
+    background-color: #faf2f2;
+}
+.foter{
+    background-color: #3f3f44;
+    color: whitesmoke;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+.footcont{
+    padding-top: 50px;
+}
+.menu{
+    color: white;
+}
+.row{
+    padding-left: 250px;
+}
+.footcopy{
+    font-family: "algerian";
+    color: yellow;
+}
